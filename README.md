@@ -10,5 +10,7 @@ This repository contains Implementation of different Nueral Networks in TensorFl
 
 # MiniVGGNet Architecture
 
+<img src="MiniVGGNet.jpg?raw=true">
+
 * Implement MiniVGGNet using TensorFlow - Keras. [Notebook](https://github.com/rkshiyaniya/Nueral-Network-Architecture-Implementation/blob/main/MiniVGGNet_cifar10.ipynb)
 * Evaluate MiniVGGNet on the cifar10 dataset.
