@@ -1,5 +1,5 @@
 # Neural-Network-Architecture-Implementation
-This repository contains Implementation of different Nueral Networks for Image Classification in TensorFlow - Python.
+This repository contains Implementation of different Neural Networks for Image Classification in TensorFlow - Python.
 
 # LeNet Architecture
 
