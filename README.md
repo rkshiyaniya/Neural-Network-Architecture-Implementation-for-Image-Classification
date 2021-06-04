@@ -1,5 +1,5 @@
-# Nueral-Network-Architecture-Implementation
-This repository contains Implementation of different Nueral Networks in TensorFlow - Python.
+# Neural-Network-Architecture-Implementation
+This repository contains Implementation of different Nueral Networks for Image Classification in TensorFlow - Python.
 
 # LeNet Architecture
 
